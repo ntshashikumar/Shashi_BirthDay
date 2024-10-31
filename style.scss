@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin:0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+        .container{
+        padding: 10px;
+        margin: 10px;
+        height: 500px;
+        width: 500px;
+        background-color: Cornsilk;
+        color:orange;
+        border-radius: 20px;    
+    }
+}
